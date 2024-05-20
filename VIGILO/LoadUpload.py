@@ -4,14 +4,6 @@ import pandas as pd
 import datetime
 import json
 
-# PARAMETROS
-REGISTROS=('834261368', '834261373', '834261712')
-REGQRY="""
-'834261368',
-'834261373',
-'834261712'
-"""
-
 # DEFINIR FUNCIONES A UTILIZAR
 def obtener_enlaces(url):
     # Realizar la petición HTTP a la página web
@@ -62,32 +54,51 @@ def obtener_enlaces(url):
     else:
         return "Error al acceder a la página"
 
-def process_deliveries(row):
-    if row['DroppedNumber'] > 0 and pd.notna(row['Deliveries']):
-        location = row['LocationName']
-        # Convertir el contenido de la columna 'Deliveries' desde JSON a objeto Python si aún no está hecho
-        if isinstance(row['Deliveries'], str):
-            deliveries = eval(row['Deliveries'])
-        else:
-            deliveries = row['Deliveries']
-        
-        # Recorrer cada entrega en 'Deliveries'
-        for delivery in deliveries:
-            delivery_number = delivery['DeliveryNumber']            
-            # Recorrer cada ítem en 'Items' de cada entrega
-            for item in delivery['Items']:
-                material_name = item['MaterialName']
-                batch = item['Batch']
-                qty = item['Qty']
-                # Podemos elegir imprimir, almacenar o devolver esta información
-                print(f"  DeliveryNumber: {delivery_number}, LocationName: {location}, MaterialName: {material_name}, Batch: {batch}, Qty: {qty}")
+def procesar_entregas_desde_url(url, modo='imprimir'):
+    # Descargar el contenido del archivo JSON desde la URL
+    respuesta = requests.get(url)
+    respuesta.raise_for_status()  # Esto lanzará una excepción si ocurre un error
 
-# Defino la function que hace un parse al JSON string y retorna un dictionary
-def parse_json(x):
-    try:
-        return json.dumps(x)
-    except:
-        return 'Error'
+    # Leer el contenido JSON
+    datos = respuesta.json()    
+    resultados = []
+    
+    # Leer Datos de la Cabecera    
+    resultado = f"\nOrigen: {datos['LogisticGroupCode']},  Embarque: {datos['Id']}, Date: {datos['Date']}, Carrier: {datos['CarrierName']}"
+    resultados.append(resultado)
+    # Imprimir la información si el modo es 'imprimir'
+    if modo == 'imprimir':
+        print(resultado)
+
+    # Procesar y almacenar la información en una lista
+    for stop in datos['StopList']:
+        # Verificar que la parada tenga entregas
+        if stop['OperationType'] == 'Dropped' and stop.get('Deliveries'):
+            for delivery in stop['Deliveries']:
+                delivery_number = delivery['DeliveryNumber']
+                location = stop['LocationName']
+                for item in delivery['Items']:
+                    material_name = item['MaterialName']
+                    batch = item.get('Batch', 'N/A')
+                    qty = item['Qty']
+                    
+                    resultado = f"  Delivery: {delivery_number}, Location: {location}, Material: {material_name}, Batch: {batch}, Qty: {qty}"
+                    resultados.append(resultado)
+
+                    # Imprimir la información si el modo es 'imprimir'
+                    if modo == 'imprimir':
+                        print(resultado)
+    
+    # Devolver los resultados si el modo es 'devolver'
+    if modo == 'devolver':
+        return resultados
+
+    # Almacenar los resultados en un archivo si el modo es 'almacenar'
+    if modo == 'almacenar':
+        with open('resultados.txt', 'a') as archivo_salida:
+            for resultado in resultados:
+                archivo_salida.write(resultado + '\n')
+
 
 ########################################################################
 # RUTINA PRINCIPAL 
@@ -97,25 +108,34 @@ def parse_json(x):
 url = "http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/"
 archivos_df = obtener_enlaces(url)
 if isinstance(archivos_df, pd.DataFrame):
-    print(archivos_df.head(1))
+    #print(archivos_df.head(1))
+    print('===============================================================')
+    print('INICIANDO EL ANÁLISIS')
+
 else:
-    print(archivos_df)
+    print('... Error....')
 
 # FILTRAR POR CANTIDAD Tomar las últimas 50 fílas válidas
 # salida= archivos_df.tail(51)
 # salida.drop(salida.index[-1], axis=0, inplace = True) # Elimina la última fila a apunta a backup
 
 # FILTRAR POR FECHA DE REGISTRO MAYOR A
-salida = archivos_df[(archivos_df['FechaHora'] >=datetime.datetime(year=2024,month=5,day=1))]
-salida.drop(salida.index[-1], axis=0, inplace = True) # Elimina la última fila a apunta a backup
+entrada = archivos_df[(archivos_df['FechaHora'] >=datetime.datetime(year=2024,month=5,day=15))]  # Toma Registros desde esa fecha en adelante
 
-# Convertir la columna 'FechaHora' a tipo datetime
-# salida['FechaHora'] = pd.to_datetime(salida['FechaHora'], dayfirst=False, format='%m/%d/%Y %I:%M %p')
-# salida['FechaHora'] = pd.to_datetime(salida['FechaHora'], dayfirst=False).dt.strftime('%m/%d/%Y %I:%M %p')
+# Extraer valores únicos de la columna 'Embarque'
+embarques = entrada['Embarque'].unique()
+# Formatear los valores entre apóstrofes y separados por comas
+REGISTROS = ', '.join(f"'{embarque}'" for embarque in embarques)
 
+# PARAMETROS MANUALES
+REGISTROS=('834277796', '834277800', '834277808', '834277810', '834277840', '834277842', '834277843', '834277885', '834278471', '834278475', '834278476', '834278484', '834278501', '834278516')
+print(REGISTROS)
+print('===============================================================')
 
-REGISTROS=('834261368', '834261373', '834261712')
-print('\n===============================================================\n')
+# ORDENAR y FILTRAR ENTRADAS
+resumen = entrada.loc[entrada["Embarque"].isin(REGISTROS)]
+salida = resumen.sort_values(by=['Embarque', 'FechaHora'])
+
 # Recorrer el Dataframe Salida para analizar los Embarques
 for i in range(len(salida)):
     if salida.iloc[i]['Embarque'] in (REGISTROS):
@@ -123,13 +143,9 @@ for i in range(len(salida)):
         print('Embarque: ',salida.iloc[i]['Embarque'])
         url = salida.iloc[i]['URL']
         print('Archivo: ',salida.iloc[i]['FechaHora'],url)
+        
         # Procesar cada Embarque
-        embarque = pd.read_json(url)
-        embarque['json_dict'] = embarque['StopList'].apply(parse_json)
-        df_json = pd.json_normalize(embarque['StopList'])
-        embarque = pd.concat([embarque, df_json], axis=1)
-        print('Origen: ',embarque.iloc[0]['LogisticGroupCode'],' - Date: ',embarque.iloc[0]['Date'],' - Carrier: ',embarque.iloc[0]['CarrierName'])
-        embarque.apply(process_deliveries, axis=1)   # Procesar detalles de cada embarque
+        resultado = procesar_entregas_desde_url(url, modo='imprimir')
         
 # Controla los Registros efectivamente ingresados en la BASE de DATOS
 import pyodbc
@@ -165,10 +181,14 @@ ON D.[ShipmentId] = A.Id
 LEFT JOIN [seamtrack].[vigiloo].[DeliveryItem] E
 ON E.[DeliveryId] = D.Id
     
-WHERE A.[RefId] IN ({REGQRY}) ORDER BY A.RefId,D.RefId, D.[DestinationCode],E.[MaterialCode];
+WHERE A.[RefId] IN {REGISTROS} 
+ORDER BY A.RefId,D.RefId, D.[DestinationCode],E.[MaterialCode];
 """
+
 #print(SQL_QUERY)
-print('\n DATOS EXISTENTES EN LA BASE DE DATOS ********************************')
+print('\n DATOS EXISTENTES EN LA BASE DE DATOS ********************************\n')
+print(SQL_QUERY)
+print('\n *********************************************************************\n')
 cursor = conn.cursor()
 cursor.execute(SQL_QUERY)
 records = cursor.fetchall()
