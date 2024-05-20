@@ -1,0 +1,61 @@
+PROCESO DE INTEFACES desde resultado 2024-05-15 00:00:00
+
+----------------------------------------------------------------
+Embarque: '834273114Archivo:  2024-05-15 15:57:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513890659165492-834273114.log
+Origen: SAPP08,  Embarque: 834273114, Date: 2024-05-16T17:37:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011486826, LocationName: AGRO GERMANIA SA, MaterialName: RUP FG W,AR,64X15KG BOX MON76818, Batch: None, Qty: 23040.0
+
+----------------------------------------------------------------
+Embarque: '834273111Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901305986070-834273111.log
+Origen: SAPP08,  Embarque: 834273111, Date: 2024-05-16T17:15:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011489501, LocationName: COMPAÃIA DE CEREALES LA PELADA SOCI, MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 19200.0
+
+----------------------------------------------------------------
+Embarque: '834273112Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901306666985-834273112.log
+Origen: SAPP08,  Embarque: 834273112, Date: 2024-05-16T15:44:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011485289, LocationName: FUMISEM SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
+
+----------------------------------------------------------------
+Embarque: '834273113Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901308378666-834273113.log
+Origen: SAPP08,  Embarque: 834273113, Date: 2024-05-16T17:37:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011486812, LocationName: AGRO GERMANIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
+
+----------------------------------------------------------------
+Embarque: '834273115Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901311411302-834273115.log
+Origen: SAPP08,  Embarque: 834273115, Date: 2024-05-16T14:56:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011488014, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
+
+----------------------------------------------------------------
+Embarque: '834273094Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901311591478-834273094.log
+Origen: SAPP08,  Embarque: 834273094, Date: 2024-05-16T15:48:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011488061, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 19200.0
+
+----------------------------------------------------------------
+Embarque: '834277842Archivo:  2024-05-17 16:04:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638515622639881565-834277842.log
+Origen: SAPP4S,  Embarque: 834277842, Date: 2024-05-21T12:32:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480744019, LocationName: AGRONOMIA PALABRA DE CAMPO SRL, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 20.0
+   DeliveryNumber: 8480744019, LocationName: AGRONOMIA PALABRA DE CAMPO SRL, MaterialName: PUCARA FS400 12X1L BOT AR, Batch: None, Qty: 24.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 120.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 240.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006772, Qty: 40.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 80.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: PUCARA FS400 12X1L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 300.0
+   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 90.0
+   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 160.0
+   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 40.0
+   DeliveryNumber: 8480744592, LocationName: URRUTI GUILLERMO CARLOS, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 40.0
+   DeliveryNumber: 8480744557, LocationName: TERRAMAR JV S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 100.0
+
+----------------------------------------------------------------
+Embarque: '834277842Archivo:  2024-05-20 10:02:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638517997420237089-834277842.log
+Origen: SAPP4S,  Embarque: 834277842, Date: 2024-05-21T12:32:00Z, Carrier: ZARCAM S.A.
+
