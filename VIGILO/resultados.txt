@@ -1,61 +1,1119 @@
-PROCESO DE INTEFACES desde resultado 2024-05-15 00:00:00
+PROCESO DE INTEFACES desde resultado 2024-01-18 00:00:00
 
 ----------------------------------------------------------------
-Embarque: '834273114Archivo:  2024-05-15 15:57:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513890659165492-834273114.log
-Origen: SAPP08,  Embarque: 834273114, Date: 2024-05-16T17:37:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+Embarque: '834327838Archivo:  2024-06-10 17:53:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536423804875070-834327838.log
+Origen: SAPP4S,  Embarque: 834327838, Date: 2024-06-12T16:09:00Z, Carrier: ZARCAM S.A.
 
-   DeliveryNumber: 5011486826, LocationName: AGRO GERMANIA SA, MaterialName: RUP FG W,AR,64X15KG BOX MON76818, Batch: None, Qty: 23040.0
-
-----------------------------------------------------------------
-Embarque: '834273111Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901305986070-834273111.log
-Origen: SAPP08,  Embarque: 834273111, Date: 2024-05-16T17:15:00Z, Carrier: ZARCAM S A
-
-   DeliveryNumber: 5011489501, LocationName: COMPAÃIA DE CEREALES LA PELADA SOCI, MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 19200.0
-
-----------------------------------------------------------------
-Embarque: '834273112Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901306666985-834273112.log
-Origen: SAPP08,  Embarque: 834273112, Date: 2024-05-16T15:44:00Z, Carrier: ZARCAM S A
-
-   DeliveryNumber: 5011485289, LocationName: FUMISEM SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
-
-----------------------------------------------------------------
-Embarque: '834273113Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901308378666-834273113.log
-Origen: SAPP08,  Embarque: 834273113, Date: 2024-05-16T17:37:00Z, Carrier: ZARCAM S A
-
-   DeliveryNumber: 5011486812, LocationName: AGRO GERMANIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
+   DeliveryNumber: 8480747677, LocationName: AGRO G.DEL LIT.SA/GUALEGUAY, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747196, LocationName: COOPERATIVA AGRICOLA MIXTA LA PROTE, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 500.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: PUCARA FS400 12X1L BOT AR, Batch: None, Qty: 60.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 160.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: None, Qty: 150.0
+   DeliveryNumber: 8480747489, LocationName: GRUPO SAV ARGENTINA SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747573, LocationName: EL MALACATE S.A., MaterialName: BELT SC480 12X1L BOT AR, Batch: None, Qty: 9.0
+   DeliveryNumber: 8480746909, LocationName: AGROP.DEL PARANA SA, MaterialName: ALIETTE (RVTA CO) WP80 12X1KG BAG AR, Batch: None, Qty: 36.0
+   DeliveryNumber: 8480747035, LocationName: AGROSERVICIOS DEL NEA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 200.0
+   DeliveryNumber: 8480747035, LocationName: AGROSERVICIOS DEL NEA SRL, MaterialName: CROPSTAR FS600 4X5L BOT AR, Batch: None, Qty: 1.0
 
 ----------------------------------------------------------------
-Embarque: '834273115Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901311411302-834273115.log
-Origen: SAPP08,  Embarque: 834273115, Date: 2024-05-16T14:56:00Z, Carrier: ZARCAM S A
+Embarque: '834327838Archivo:  2024-06-11 09:47:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536996680364492-834327838.log
+Origen: SAPP4S,  Embarque: 834327838, Date: 2024-06-12T16:09:00Z, Carrier: ZARCAM S.A.
 
-   DeliveryNumber: 5011488014, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 23040.0
-
-----------------------------------------------------------------
-Embarque: '834273094Archivo:  2024-05-15 16:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638513901311591478-834273094.log
-Origen: SAPP08,  Embarque: 834273094, Date: 2024-05-16T15:48:00Z, Carrier: ZARCAM S A
-
-   DeliveryNumber: 5011488061, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 19200.0
-
-----------------------------------------------------------------
-Embarque: '834277842Archivo:  2024-05-17 16:04:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638515622639881565-834277842.log
-Origen: SAPP4S,  Embarque: 834277842, Date: 2024-05-21T12:32:00Z, Carrier: ZARCAM S.A.
-
-   DeliveryNumber: 8480744019, LocationName: AGRONOMIA PALABRA DE CAMPO SRL, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 20.0
-   DeliveryNumber: 8480744019, LocationName: AGRONOMIA PALABRA DE CAMPO SRL, MaterialName: PUCARA FS400 12X1L BOT AR, Batch: None, Qty: 24.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 120.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 240.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006772, Qty: 40.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 80.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: PUCARA FS400 12X1L BOT AR, Batch: None, Qty: 100.0
-   DeliveryNumber: 8480744508, LocationName: Suc. Baya Casal S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 300.0
-   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 90.0
-   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 100.0
-   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 160.0
-   DeliveryNumber: 8480744388, LocationName: AIBAL SERV.AGROP.S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 40.0
-   DeliveryNumber: 8480744592, LocationName: URRUTI GUILLERMO CARLOS, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 40.0
-   DeliveryNumber: 8480744557, LocationName: TERRAMAR JV S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480747677, LocationName: AGRO G.DEL LIT.SA/GUALEGUAY, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 6.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: LA47001052, Qty: 7.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 2.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 4.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 8.0
+   DeliveryNumber: 8480747488, LocationName: AGRO GESTION DEL LITORAL SA, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 2.0
+   DeliveryNumber: 8480747196, LocationName: COOPERATIVA AGRICOLA MIXTA LA PROTE, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001180, Qty: 457.0
+   DeliveryNumber: 8480747196, LocationName: COOPERATIVA AGRICOLA MIXTA LA PROTE, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 43.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: PUCARA FS400 12X1L BOT AR, Batch: LA40005612, Qty: 60.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 160.0
+   DeliveryNumber: 8480747566, LocationName: TRES ROBLES S.R.L., MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: LA49003179, Qty: 150.0
+   DeliveryNumber: 8480747489, LocationName: GRUPO SAV ARGENTINA SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 2.0
+   DeliveryNumber: 8480747573, LocationName: EL MALACATE S.A., MaterialName: BELT SC480 12X1L BOT AR, Batch: LA40006469, Qty: 9.0
+   DeliveryNumber: 8480746909, LocationName: AGROP.DEL PARANA SA, MaterialName: ALIETTE (RVTA CO) WP80 12X1KG BAG AR, Batch: LB00019244, Qty: 36.0
+   DeliveryNumber: 8480747035, LocationName: AGROSERVICIOS DEL NEA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001180, Qty: 200.0
+   DeliveryNumber: 8480747035, LocationName: AGROSERVICIOS DEL NEA SRL, MaterialName: CROPSTAR FS600 4X5L BOT AR, Batch: LA40006642, Qty: 1.0
 
 ----------------------------------------------------------------
-Embarque: '834277842Archivo:  2024-05-20 10:02:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638517997420237089-834277842.log
-Origen: SAPP4S,  Embarque: 834277842, Date: 2024-05-21T12:32:00Z, Carrier: ZARCAM S.A.
+Embarque: '834327898Archivo:  2024-06-10 16:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536377117028969-834327898.log
+Origen: SAPP08,  Embarque: 834327898, Date: 2024-06-11T14:30:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
 
+   DeliveryNumber: 5011514705, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK72-10PRO4 C4 80M TB AR, Batch: YE1091524, Qty: 300.0
+   DeliveryNumber: 5011514706, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK73-03TRE R4 80M TB AR, Batch: YE1091238, Qty: 500.0
+   DeliveryNumber: 5011514707, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK72-10PRO4 C4 80M TB AR, Batch: YE1091524, Qty: 200.0
+   DeliveryNumber: 5011514722, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091095, Qty: 200.0
+
+----------------------------------------------------------------
+Embarque: '834327903Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401849117985-834327903.log
+Origen: SAPP4S,  Embarque: 834327903, Date: 2024-06-12T09:48:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 9.0
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 5.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 17.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 20.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 40.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 20.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 40.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 23.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 162.0
+   DeliveryNumber: 8480747458, LocationName: GENOVA MAIRE S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 14.0
+   DeliveryNumber: 8480747458, LocationName: GENOVA MAIRE S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747477, LocationName: ALEA Y CIA SOCIEDAD ANONIMA, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: None, Qty: 300.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 63.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 27.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 35.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 119.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 51.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 28.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 12.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 98.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 42.0
+   DeliveryNumber: 8480747560, LocationName: NUEVA HUELLA S.R.L., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 29.0
+   DeliveryNumber: 8480747560, LocationName: NUEVA HUELLA S.R.L., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 26.0
+
+----------------------------------------------------------------
+Embarque: '834327903Archivo:  2024-06-11 15:29:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537201447681871-834327903.log
+Origen: SAPP4S,  Embarque: 834327903, Date: 2024-06-12T09:48:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 9.0
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 8.0
+   DeliveryNumber: 8480746584, LocationName: DE BIASI LEONARDO CARLOS, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 10.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 17.0
+   DeliveryNumber: 8480747424, LocationName: COOP.AGRIC.GAN.DE RAUCH LTDA., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 8.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 20.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 40.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 20.0
+   DeliveryNumber: 8480747569, LocationName: HEER GUSTAVO ADOLFO, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 40.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: LA49003179, Qty: 10.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 8.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 23.0
+   DeliveryNumber: 8480747490, LocationName: DOS CACIQUES SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001182, Qty: 162.0
+   DeliveryNumber: 8480747458, LocationName: GENOVA MAIRE S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 14.0
+   DeliveryNumber: 8480747458, LocationName: GENOVA MAIRE S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 6.0
+   DeliveryNumber: 8480747477, LocationName: ALEA Y CIA SOCIEDAD ANONIMA, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: LA49003305, Qty: 300.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 63.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 27.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 35.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 15.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 119.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 51.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 28.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 12.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 98.0
+   DeliveryNumber: 8480747442, LocationName: TERY TERRA S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 42.0
+   DeliveryNumber: 8480747560, LocationName: NUEVA HUELLA S.R.L., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 29.0
+   DeliveryNumber: 8480747560, LocationName: NUEVA HUELLA S.R.L., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 26.0
+
+----------------------------------------------------------------
+Embarque: '834327910Archivo:  2024-06-10 16:04:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536358605964612-834327910.log
+Origen: SAPP08,  Embarque: 834327910, Date: 2024-06-11T14:00:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011514708, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090396, Qty: 1000.0
+   DeliveryNumber: 5011514713, LocationName: AGRO LEBEN SRL, MaterialName: C DK DK72-20RR2 SPC 80M TB AR, Batch: YE1091132, Qty: 400.0
+
+----------------------------------------------------------------
+Embarque: '834327913Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401791451585-834327913.log
+Origen: SAPP4S,  Embarque: 834327913, Date: 2024-06-12T07:36:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747502, LocationName: AGRONOMIA DOM SA, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 1.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 3.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 5.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 28.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 12.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 52.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 42.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 18.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 70.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 30.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 326.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 140.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 1.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 11.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 5.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 28.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 12.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 35.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 35.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 70.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 30.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 3.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: None, Qty: 24.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 112.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 48.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 140.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 60.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 70.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 30.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 11.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 5.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 14.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 17.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 21.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 9.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 34.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 14.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: None, Qty: 42.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: None, Qty: 18.0
+
+----------------------------------------------------------------
+Embarque: '834327913Archivo:  2024-06-11 14:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537157530700882-834327913.log
+Origen: SAPP4S,  Embarque: 834327913, Date: 2024-06-12T07:36:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747502, LocationName: AGRONOMIA DOM SA, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: LA47001124, Qty: 1.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 7.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 3.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 8.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 28.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 12.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 52.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 8.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 42.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 18.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 70.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 326.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 140.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 1.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 11.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 28.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 12.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 35.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 19.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 16.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 70.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 3.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 24.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 4.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 48.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 20.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 92.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 140.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 60.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 70.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 10.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 11.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 14.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 6.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 21.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 9.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 34.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 14.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 42.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 18.0
+
+----------------------------------------------------------------
+Embarque: '834327913Archivo:  2024-06-11 14:22:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537161223114377-834327913.log
+Origen: SAPP4S,  Embarque: 834327913, Date: 2024-06-12T07:36:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747502, LocationName: AGRONOMIA DOM SA, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: LA47001124, Qty: 1.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 7.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 3.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 8.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 28.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 12.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 13.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 52.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 4.0
+   DeliveryNumber: 8480747419, LocationName: RECARI MARIA FRANCISCA, MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 8.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 42.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 18.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 70.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 326.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 140.0
+   DeliveryNumber: 8480747441, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 1.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 10.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 11.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 28.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 12.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 35.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 15.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 19.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 16.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 70.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 8.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 3.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 6.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON SC325 4X5L BOT AR, Batch: LA40006634, Qty: 24.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: SCENIC FS80 4X5L BOT AR, Batch: LA40006773, Qty: 2.0
+   DeliveryNumber: 8480747405, LocationName: BIOTERRA S.A., MaterialName: CRIPTON XPRO SC450 2X10L BOT AR, Batch: LA40006678, Qty: 4.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 48.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 20.0
+   DeliveryNumber: 8480747450, LocationName: AGRO SAN JOSE SA, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 92.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 140.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 60.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006822, Qty: 70.0
+   DeliveryNumber: 8480747451, LocationName: TERRAMAR JV S.A., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 30.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 10.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 4.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 11.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 5.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 14.0
+   DeliveryNumber: 8480747422, LocationName: AGRONOMIA LINDON SRL., MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 6.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 17.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 7.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 21.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 9.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006766, Qty: 34.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 14.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR PLUS II PACK KK 1X1PCE COP AR, Batch: LA40006767, Qty: 42.0
+   DeliveryNumber: 8480747431, LocationName: POSTA CALDENIA SH, MaterialName: HUSSAR OD PLUS PACK KK 1X1PC COP AR, Batch: LA40006609, Qty: 18.0
+
+----------------------------------------------------------------
+Embarque: '834328275Archivo:  2024-06-10 16:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536377088711493-834328275.log
+Origen: SAPP08,  Embarque: 834328275, Date: 2024-06-11T15:22:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011504735, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 200.0
+   DeliveryNumber: 5011504736, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 35.0
+   DeliveryNumber: 5011504736, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 2.0
+   DeliveryNumber: 5011504737, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 75.0
+   DeliveryNumber: 5011512023, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 45.0
+   DeliveryNumber: 5011512023, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 2.0
+   DeliveryNumber: 5011512024, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080806, Qty: 22.0
+   DeliveryNumber: 5011512024, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 68.0
+   DeliveryNumber: 5011512025, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 90.0
+   DeliveryNumber: 5011512026, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 45.0
+   DeliveryNumber: 5011512026, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 11.0
+   DeliveryNumber: 5011512027, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 45.0
+   DeliveryNumber: 5011512028, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 99.0
+   DeliveryNumber: 5011512029, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 99.0
+   DeliveryNumber: 5011512030, LocationName: FUMISEM SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082616, Qty: 20.0
+   DeliveryNumber: 5011512083, LocationName: FUMISEM SA, MaterialName: C DK DK73-03RR2 SPR 80M TB AR, Batch: YE1090945, Qty: 20.0
+   DeliveryNumber: 5011512083, LocationName: FUMISEM SA, MaterialName: C DK DK73-03TRE SPR 80M TB AR, Batch: YE1090449, Qty: 180.0
+   DeliveryNumber: 5011512083, LocationName: FUMISEM SA, MaterialName: C DK DK73-03RR2 SPR 80M TB AR, Batch: YE1090945, Qty: 20.0
+   DeliveryNumber: 5011513345, LocationName: FUMISEM SA, MaterialName: C DK DK72-72RR2 R4C 80M TB AR, Batch: YE1091063, Qty: 3.0
+
+----------------------------------------------------------------
+Embarque: '834328288Archivo:  2024-06-10 16:04:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536358635723602-834328288.log
+Origen: SAPP08,  Embarque: 834328288, Date: 2024-06-12T07:00:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011507413, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-10RR2 C4 80M TB AR, Batch: YE1090922, Qty: 8.0
+   DeliveryNumber: 5011507545, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-20RR2 R2 80M TB AR, Batch: YE1091140, Qty: 10.0
+   DeliveryNumber: 5011507602, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090352, Qty: 27.0
+   DeliveryNumber: 5011511920, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-70TRE R4 80M TB AR, Batch: XE1082394, Qty: 96.0
+   DeliveryNumber: 5011511929, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090352, Qty: 18.0
+   DeliveryNumber: 5011511929, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090352, Qty: 5.0
+   DeliveryNumber: 5011512039, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1082637, Qty: 270.0
+   DeliveryNumber: 5011512096, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK73-03RR2 C4 80M TB AR, Batch: YE1090964, Qty: 100.0
+   DeliveryNumber: 5011512958, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-72TRE C5 80M TB AR, Batch: XE1082592, Qty: 488.0
+   DeliveryNumber: 5011513341, LocationName: HIJOS DE DANIEL E YOUNG SOCIEDAD AN, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091095, Qty: 10.0
+   DeliveryNumber: 5011511974, LocationName: CORRAL INSUMOS SA, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090376, Qty: 63.0
+   DeliveryNumber: 5011511974, LocationName: CORRAL INSUMOS SA, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090376, Qty: 4.0
+   DeliveryNumber: 5011511975, LocationName: CORRAL INSUMOS SA, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090376, Qty: 18.0
+   DeliveryNumber: 5011511986, LocationName: CORRAL INSUMOS SA, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090420, Qty: 37.0
+   DeliveryNumber: 5011511986, LocationName: CORRAL INSUMOS SA, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090420, Qty: 8.0
+
+----------------------------------------------------------------
+Embarque: '834328436Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401627131569-834328436.log
+Origen: SAPP08,  Embarque: 834328436, Date: 2024-06-11T15:11:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513234, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 19200.0
+
+----------------------------------------------------------------
+Embarque: '834328437Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401627041479-834328437.log
+Origen: SAPP08,  Embarque: 834328437, Date: 2024-06-12T15:31:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513260, LocationName: BESANA SEMILLAS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 6720.0
+   DeliveryNumber: 5011513246, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 11520.0
+
+----------------------------------------------------------------
+Embarque: '834328439Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401622567143-834328439.log
+Origen: SAPP08,  Embarque: 834328439, Date: 2024-06-11T15:00:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513239, LocationName: AGRO ARROYO INSUMOS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 18240.0
+
+----------------------------------------------------------------
+Embarque: '834328451Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401627191627-834328451.log
+Origen: SAPP08,  Embarque: 834328451, Date: 2024-06-11T17:45:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513243, LocationName: ARROYO VIEJO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 14400.0
+   DeliveryNumber: 5011513249, LocationName: AGRO ARROYO INSUMOS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 9600.0
+
+----------------------------------------------------------------
+Embarque: '834328562Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401622216777-834328562.log
+Origen: SAPP08,  Embarque: 834328562, Date: 2024-06-12T16:27:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011514677, LocationName: AJU SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 19200.0
+
+----------------------------------------------------------------
+Embarque: '834328569Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401674247450-834328569.log
+Origen: SAPP4S,  Embarque: 834328569, Date: 2024-06-12T16:10:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747540, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 700.0
+   DeliveryNumber: 8480747540, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 110.0
+   DeliveryNumber: 8480747486, LocationName: SINER SA, MaterialName: MERLIN TOTAL RVTA SC600 4X5L BOT AR, Batch: None, Qty: 12.0
+   DeliveryNumber: 8480747486, LocationName: SINER SA, MaterialName: ALION SC500 20X250ML BOT AR, Batch: None, Qty: 520.0
+
+----------------------------------------------------------------
+Embarque: '834328569Archivo:  2024-06-11 09:18:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536979364845975-834328569.log
+Origen: SAPP4S,  Embarque: 834328569, Date: 2024-06-12T16:10:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747540, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 700.0
+   DeliveryNumber: 8480747540, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 110.0
+   DeliveryNumber: 8480747486, LocationName: SINER SA, MaterialName: MERLIN TOTAL RVTA SC600 4X5L BOT AR, Batch: EFKN002651, Qty: 12.0
+   DeliveryNumber: 8480747486, LocationName: SINER SA, MaterialName: ALION SC500 20X250ML BOT AR, Batch: EFIT002226, Qty: 202.0
+   DeliveryNumber: 8480747486, LocationName: SINER SA, MaterialName: ALION SC500 20X250ML BOT AR, Batch: EFIT002515, Qty: 318.0
+
+----------------------------------------------------------------
+Embarque: '834328588Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401604579664-834328588.log
+Origen: SAPP08,  Embarque: 834328588, Date: 2024-06-13T17:54:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515106, LocationName: ALESSO AGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 585.0
+   DeliveryNumber: 5011515108, LocationName: ALESSO AGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1305.0
+   DeliveryNumber: 5011515109, LocationName: ALESSO AGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1305.0
+   DeliveryNumber: 5011515110, LocationName: ALESSO AGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011514919, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 720.0
+   DeliveryNumber: 5011515165, LocationName: AGROQUIMICOS DEL NORTE SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2160.0
+   DeliveryNumber: 5011515075, LocationName: R Y K SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1770.0
+   DeliveryNumber: 5011515042, LocationName: BARRACON S.R.L., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1965.0
+   DeliveryNumber: 5011515043, LocationName: BARRACON S.R.L., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3600.0
+   DeliveryNumber: 5011515007, LocationName: BARRACON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1965.0
+   DeliveryNumber: 5011514678, LocationName: AJU SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1920.0
+
+----------------------------------------------------------------
+Embarque: '834328589Archivo:  2024-06-10 16:55:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536389184078778-834328589.log
+Origen: SAPP4S,  Embarque: 834328589, Date: 2024-06-12T08:22:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747493, LocationName: ALFREDO S. MONDINO CEREALES SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: None, Qty: 20.0
+   DeliveryNumber: 8480747493, LocationName: ALFREDO S. MONDINO CEREALES SRL, MaterialName: PRODIGIO SC600 4X5L BOT AR, Batch: None, Qty: 36.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 3.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 9.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 14.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: BRODAL NPE-FREE (LOC) SC500 4X5L BOT AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 33.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: BRODAL NPE-FREE (LOC) SC500 4X5L BOT AR, Batch: None, Qty: 20.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: None, Qty: 35.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: None, Qty: 200.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 67.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 18.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: None, Qty: 18.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 7.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: None, Qty: 10.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: None, Qty: 2.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: ALIETTE (RVTA CO) WP80 12X1KG BAG AR, Batch: None, Qty: 30.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: BELT SC480 20X250ML BOT AR, Batch: None, Qty: 80.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: MOVENTO OD150 12X1L BOT AR, Batch: None, Qty: 96.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: MOVENTO OD150 12X1L BOT AR, Batch: None, Qty: 96.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE (TOLLER) EC100 12X1L BOT AR, Batch: None, Qty: 36.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: None, Qty: 12.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE TOLLER EC100 20X250ML BOT AR, Batch: None, Qty: 40.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: INFINITO LOCAL SC687.5 12X1L BOT AR, Batch: None, Qty: 24.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: PRODIGIO SC600 4X5L BOT AR, Batch: None, Qty: 25.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: PRODIGIO RVTA SC600 12X1L BOT AR, Batch: None, Qty: 12.0
+
+----------------------------------------------------------------
+Embarque: '834328589Archivo:  2024-06-11 11:27:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537056270622353-834328589.log
+Origen: SAPP4S,  Embarque: 834328589, Date: 2024-06-12T08:22:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747493, LocationName: ALFREDO S. MONDINO CEREALES SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: LA40006139, Qty: 20.0
+   DeliveryNumber: 8480747493, LocationName: ALFREDO S. MONDINO CEREALES SRL, MaterialName: PRODIGIO SC600 4X5L BOT AR, Batch: EV56012125, Qty: 36.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 3.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: EFWA001087, Qty: 9.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: EFWA001087, Qty: 14.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: LA40006139, Qty: 8.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: LA40006139, Qty: 15.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: BRODAL NPE-FREE (LOC) SC500 4X5L BOT AR, Batch: LA47000975, Qty: 10.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: LA49003305, Qty: 100.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 33.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: BRODAL NPE-FREE (LOC) SC500 4X5L BOT AR, Batch: LA47000975, Qty: 20.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: LA40006139, Qty: 35.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: OPTIMIZER EC765 2X10L BOT AR, Batch: LA49003305, Qty: 200.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001181, Qty: 20.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: LA47001182, Qty: 47.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: LA47001124, Qty: 18.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: EFWA001087, Qty: 15.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: LA47001052, Qty: 18.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: LA47001124, Qty: 8.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: EFWA001087, Qty: 7.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: LAUDIS SC630 4X5L BOT AR, Batch: LA47001052, Qty: 10.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: CHUCARO FS330 4X5L BOT AR, Batch: LA40006778, Qty: 2.0
+   DeliveryNumber: 8480747474, LocationName: AGRO UCACHA SRL, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: EFWA001087, Qty: 6.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: ALIETTE (RVTA CO) WP80 12X1KG BAG AR, Batch: LB00019244, Qty: 30.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: BELT SC480 20X250ML BOT AR, Batch: LA40006104, Qty: 80.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: MOVENTO OD150 12X1L BOT AR, Batch: EM4L039071, Qty: 96.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: MOVENTO OD150 12X1L BOT AR, Batch: EM4L039071, Qty: 96.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE (TOLLER) EC100 12X1L BOT AR, Batch: LA49003331, Qty: 36.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE (TOLLER) EC100 4X5L BOT AR, Batch: LA49003179, Qty: 12.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: DECIS FORTE TOLLER EC100 20X250ML BOT AR, Batch: LA49003177, Qty: 40.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: INFINITO LOCAL SC687.5 12X1L BOT AR, Batch: LA40006447, Qty: 24.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: PRODIGIO SC600 4X5L BOT AR, Batch: EV56012125, Qty: 25.0
+   DeliveryNumber: 8480747478, LocationName: NUTRIENTES S.A., MaterialName: PRODIGIO RVTA SC600 12X1L BOT AR, Batch: EM4H008475, Qty: 12.0
+
+----------------------------------------------------------------
+Embarque: '834328589Archivo:  2024-06-11 11:29:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537057993979522-834328589.log
+Origen: SAPP4S,  Embarque: 834328589, Date: 2024-06-12T08:22:00Z, Carrier: ZARCAM S.A.
+
+
+----------------------------------------------------------------
+Embarque: '834328655Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401596381682-834328655.log
+Origen: SAPP08,  Embarque: 834328655, Date: 2024-06-13T11:47:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515114, LocationName: AGROSISTEMA MAR CHIQUITA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011514671, LocationName: SINER SA, MaterialName: RUP FG W,AR,64X15KG BOX MON76818, Batch: None, Qty: 5505.0
+   DeliveryNumber: 5011515025, LocationName: SINER SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 990.0
+   DeliveryNumber: 5011514950, LocationName: BARRACON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 6000.0
+
+----------------------------------------------------------------
+Embarque: '834328656Archivo:  2024-06-10 16:52:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536387409587660-834328656.log
+Origen: SAPP08,  Embarque: 834328656, Date: 2024-06-14T10:21:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011512906, LocationName: GIORDA GABRIEL NESTOR Y GOMEZ JAVIE, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1400.0
+   DeliveryNumber: 5011513189, LocationName: GIORDA GABRIEL NESTOR Y GOMEZ JAVIE, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2060.0
+   DeliveryNumber: 5011514690, LocationName: GIORDA GABRIEL NESTOR Y GOMEZ JAVIE, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 7000.0
+   DeliveryNumber: 5011512907, LocationName: DELYAR SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1680.0
+   DeliveryNumber: 5011514981, LocationName: TUCAGRO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+
+----------------------------------------------------------------
+Embarque: '834328674Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401601486674-834328674.log
+Origen: SAPP08,  Embarque: 834328674, Date: 2024-06-13T14:35:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513093, LocationName: BUTTIGLIERO LEONEL, MaterialName: LA TIJERETABOX W,AR,64X15KG,BOX MON76818, Batch: None, Qty: 6000.0
+   DeliveryNumber: 5011511340, LocationName: PAMPA GRANDE SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2000.0
+   DeliveryNumber: 5011513135, LocationName: PAMPA GRANDE SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 200.0
+   DeliveryNumber: 5011513136, LocationName: PAMPA GRANDE SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 200.0
+   DeliveryNumber: 5011513137, LocationName: PAMPA GRANDE SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 80.0
+   DeliveryNumber: 5011515008, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 300.0
+   DeliveryNumber: 5011515009, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 300.0
+   DeliveryNumber: 5011515011, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515012, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515013, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 150.0
+   DeliveryNumber: 5011515014, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2250.0
+   DeliveryNumber: 5011515015, LocationName: PAMPA GRANDE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2250.0
+   DeliveryNumber: 5011515105, LocationName: LA CLEMENTINA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515111, LocationName: MIRU AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515112, LocationName: MIRU AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+
+----------------------------------------------------------------
+Embarque: '834328675Archivo:  2024-06-10 16:52:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536387412970933-834328675.log
+Origen: SAPP08,  Embarque: 834328675, Date: 2024-06-12T13:24:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011505810, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 5011505810, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 30.0
+   DeliveryNumber: 5011505811, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 65.0
+   DeliveryNumber: 5011505811, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 60.0
+   DeliveryNumber: 5011510142, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 5000.0
+   DeliveryNumber: 5011515059, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1350.0
+   DeliveryNumber: 5011515061, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011515062, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011512929, LocationName: SAC SA, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 600.0
+   DeliveryNumber: 5011514948, LocationName: SAC SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011514949, LocationName: SAC SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+
+----------------------------------------------------------------
+Embarque: '834328676Archivo:  2024-06-10 16:52:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536387411579581-834328676.log
+Origen: SAPP08,  Embarque: 834328676, Date: 2024-06-12T16:24:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011513191, LocationName: MAINET S. R. L, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2800.0
+   DeliveryNumber: 5011515151, LocationName: AGRO NOBLE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011515152, LocationName: AGRO NOBLE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515153, LocationName: AGRO NOBLE SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 930.0
+   DeliveryNumber: 5011514667, LocationName: PUCCIO MATIAS Y PETRY JAVIER RICARD, MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 7000.0
+   DeliveryNumber: 5011514669, LocationName: PUCCIO MATIAS Y PETRY JAVIER RICARD, MaterialName: LA TIJERETABOX W,AR,64X15KG,BOX MON76818, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515096, LocationName: EL LADERO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1425.0
+
+----------------------------------------------------------------
+Embarque: '834328734Archivo:  2024-06-10 16:55:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536389034203174-834328734.log
+Origen: SAPP4S,  Embarque: 834328734, Date: 2024-06-12T07:04:00Z, Carrier: ZARCAM S.A.
+
+   DeliveryNumber: 8480747423, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: DECIS FLOW SC200 12X1L BOT AR, Batch: None, Qty: 50.0
+   DeliveryNumber: 8480747499, LocationName: CORRAL INSUMOS SA, MaterialName: SCENIC FS80 4X5L BOT AR, Batch: None, Qty: 4.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 6.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 150.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 100.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 15.0
+   DeliveryNumber: 8480747501, LocationName: AGRO NOBLE VILLANUEVA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 50.0
+   DeliveryNumber: 8480747479, LocationName: CEREAL C S A, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 42.0
+   DeliveryNumber: 8480746836, LocationName: EL LADERO SA, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 56.0
+   DeliveryNumber: 8480746836, LocationName: EL LADERO SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 32.0
+   DeliveryNumber: 8480746836, LocationName: EL LADERO SA, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480746836, LocationName: EL LADERO SA, MaterialName: LATIUM SUPER (ZRT) EC360 2X10L BOT AR, Batch: None, Qty: 32.0
+   DeliveryNumber: 8480746836, LocationName: EL LADERO SA, MaterialName: PERCUTOR WG51 8X900GR BOT AR, Batch: None, Qty: 8.0
+   DeliveryNumber: 8480747356, LocationName: EL LADERO RUTA 79 - KM2, MaterialName: ADENGO ZII SC465 4X5L BOT AR, Batch: None, Qty: 4.0
+
+----------------------------------------------------------------
+Embarque: '834328734Archivo:  2024-06-11 12:27:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537092516021248-834328734.log
+Origen: SAPP4S,  Embarque: 834328734, Date: 2024-06-12T07:04:00Z, Carrier: ZARCAM S.A.
+
+
+----------------------------------------------------------------
+Embarque: '834328735Archivo:  2024-06-10 17:16:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401600095301-834328735.log
+Origen: SAPP08,  Embarque: 834328735, Date: 2024-06-12T15:19:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513181, LocationName: TECNOSUR SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 800.0
+   DeliveryNumber: 5011514684, LocationName: TECNOSUR SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011514931, LocationName: TECNOSUR SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1530.0
+   DeliveryNumber: 5011515006, LocationName: EL ARRIERO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011510085, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 510.0
+   DeliveryNumber: 5011511337, LocationName: AGRO UCACHA SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 800.0
+   DeliveryNumber: 5011512859, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011513107, LocationName: AGRO UCACHA SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 180.0
+   DeliveryNumber: 5011514895, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5805.0
+
+----------------------------------------------------------------
+Embarque: '834328737Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401599494724-834328737.log
+Origen: SAPP08,  Embarque: 834328737, Date: 2024-06-12T13:41:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011512919, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 6800.0
+   DeliveryNumber: 5011513185, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 800.0
+   DeliveryNumber: 5011514976, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 810.0
+   DeliveryNumber: 5011514977, LocationName: CENTRO AGROPECUARIO MODELO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 810.0
+   DeliveryNumber: 5011514897, LocationName: BESANA SEMILLAS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 285.0
+   DeliveryNumber: 5011514898, LocationName: BESANA SEMILLAS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1425.0
+   DeliveryNumber: 5011514961, LocationName: EL ARRIERO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 180.0
+   DeliveryNumber: 5011513084, LocationName: ALFREDO S. MONDINO CEREALES SRL, MaterialName: LA TIJERETABOX W,AR,64X15KG,BOX MON76818, Batch: None, Qty: 11520.0
+
+----------------------------------------------------------------
+Embarque: '834328740Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401574760631-834328740.log
+Origen: SAPP08,  Embarque: 834328740, Date: 2024-06-12T14:00:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515018, LocationName: AGRO LEBEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515019, LocationName: AGRO LEBEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011511282, LocationName: LA NUEVA AGROPULSO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011512860, LocationName: LA NUEVA AGROPULSO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 810.0
+   DeliveryNumber: 5011514896, LocationName: LA NUEVA AGROPULSO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011514962, LocationName: CYAGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515169, LocationName: CYAGRO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011511284, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011511285, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 510.0
+   DeliveryNumber: 5011511286, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011514960, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+
+----------------------------------------------------------------
+Embarque: '834328741Archivo:  2024-06-10 17:13:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536400281711823-834328741.log
+Origen: SAPP08,  Embarque: 834328741, Date: 2024-06-12T12:20:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011514954, LocationName: URRUTI GUILLERMO C HIJO, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011514955, LocationName: URRUTI GUILLERMO C HIJO, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011513109, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1200.0
+   DeliveryNumber: 5011513110, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1200.0
+   DeliveryNumber: 5011513111, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011513112, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 80.0
+   DeliveryNumber: 5011514917, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011511283, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 30.0
+   DeliveryNumber: 5011514683, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1000.0
+   DeliveryNumber: 5011514909, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 150.0
+   DeliveryNumber: 5011514910, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011514911, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011514912, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011514913, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011514914, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011514916, LocationName: AGRONOMIA LINDON SRL., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+
+----------------------------------------------------------------
+Embarque: '834328785Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401566832907-834328785.log
+Origen: SAPP08,  Embarque: 834328785, Date: 2024-06-12T17:04:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513132, LocationName: CYAGRO SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 4000.0
+   DeliveryNumber: 5011511339, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 6000.0
+   DeliveryNumber: 5011512865, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011512866, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011512867, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011514978, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 45.0
+   DeliveryNumber: 5011514979, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 75.0
+   DeliveryNumber: 5011514980, LocationName: AGRONOMIA BAUDINO SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1410.0
+
+----------------------------------------------------------------
+Embarque: '834328789Archivo:  2024-06-10 17:13:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536400342711427-834328789.log
+Origen: SAPP08,  Embarque: 834328789, Date: 2024-06-12T16:35:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011513142, LocationName: EKUN AGRO SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1000.0
+   DeliveryNumber: 5011515053, LocationName: EKUN AGRO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4200.0
+   DeliveryNumber: 5011508781, LocationName: AGRONOMIA LINDON SRL, MaterialName: HARNESS,AR,48x20L BT MON58415, Batch: None, Qty: 20.0
+   DeliveryNumber: 5011512905, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 40.0
+   DeliveryNumber: 5011513138, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2000.0
+   DeliveryNumber: 5011513139, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2000.0
+   DeliveryNumber: 5011513188, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2000.0
+   DeliveryNumber: 5011515026, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 495.0
+   DeliveryNumber: 5011515027, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 450.0
+   DeliveryNumber: 5011515028, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 510.0
+   DeliveryNumber: 5011515029, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 600.0
+   DeliveryNumber: 5011515030, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515031, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515032, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515033, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 150.0
+   DeliveryNumber: 5011515034, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515035, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515036, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515037, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515038, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515040, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 510.0
+   DeliveryNumber: 5011515041, LocationName: AGRONOMIA LINDON SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+
+----------------------------------------------------------------
+Embarque: '834328795Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401566212303-834328795.log
+Origen: SAPP08,  Embarque: 834328795, Date: 2024-06-12T09:37:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011514951, LocationName: URRUTI GUILLERMO C HIJO, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011514952, LocationName: URRUTI GUILLERMO C HIJO, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1050.0
+   DeliveryNumber: 5011514953, LocationName: URRUTI GUILLERMO C HIJO, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011511275, LocationName: TOLVAS SOCIEDAD ANONIMA, MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 9600.0
+
+----------------------------------------------------------------
+Embarque: '834328796Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401567964006-834328796.log
+Origen: SAPP08,  Embarque: 834328796, Date: 2024-06-12T15:55:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515020, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515022, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011513140, LocationName: PUESTOLOB SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 800.0
+   DeliveryNumber: 5011513141, LocationName: PUESTOLOB SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1000.0
+   DeliveryNumber: 5011515045, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5220.0
+   DeliveryNumber: 5011515046, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011515047, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011515048, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 705.0
+   DeliveryNumber: 5011515049, LocationName: PUESTOLOB SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+
+----------------------------------------------------------------
+Embarque: '834328849Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401562528731-834328849.log
+Origen: SAPP08,  Embarque: 834328849, Date: 2024-06-11T15:30:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513078, LocationName: GESAGRO S. A., MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 19200.0
+
+----------------------------------------------------------------
+Embarque: '834328851Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401574240416-834328851.log
+Origen: SAPP08,  Embarque: 834328851, Date: 2024-06-12T14:37:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515081, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1680.0
+   DeliveryNumber: 5011515083, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515085, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2505.0
+   DeliveryNumber: 5011515086, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515089, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011515091, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 6000.0
+   DeliveryNumber: 5011515093, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515095, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5400.0
+
+----------------------------------------------------------------
+Embarque: '834328893Archivo:  2024-06-10 19:03:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536465814084527-834328893.log
+Origen: SAPP08,  Embarque: 834328893, Date: 2024-06-12T07:14:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513197, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011515131, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011511276, LocationName: TOLVAS SOCIEDAD ANONIMA, MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 7680.0
+   DeliveryNumber: 5011512845, LocationName: BIOTERRA SA, MaterialName: HARNESS,AR,48x20L BT MON58415, Batch: None, Qty: 440.0
+   DeliveryNumber: 5011512871, LocationName: BIOTERRA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 645.0
+   DeliveryNumber: 5011513195, LocationName: BIOTERRA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1300.0
+   DeliveryNumber: 5011515124, LocationName: BIOTERRA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2550.0
+   DeliveryNumber: 5011515126, LocationName: BIOTERRA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1650.0
+   DeliveryNumber: 5011515127, LocationName: BIOTERRA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3840.0
+
+----------------------------------------------------------------
+Embarque: '834328894Archivo:  2024-06-10 17:18:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536403280371316-834328894.log
+Origen: SAPP08,  Embarque: 834328894, Date: 2024-06-12T09:54:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011512914, LocationName: DOS CACIQUES SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1700.0
+   DeliveryNumber: 5011512916, LocationName: DOS CACIQUES SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1300.0
+   DeliveryNumber: 5011514906, LocationName: DOS CACIQUES SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3510.0
+   DeliveryNumber: 5011514907, LocationName: DOS CACIQUES SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 105.0
+   DeliveryNumber: 5011514908, LocationName: DOS CACIQUES SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515157, LocationName: DOS CACIQUES SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3015.0
+   DeliveryNumber: 5011512892, LocationName: RECARI MARIA FRANCISCA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1300.0
+   DeliveryNumber: 5011512893, LocationName: RECARI MARIA FRANCISCA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1500.0
+   DeliveryNumber: 5011513196, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1000.0
+   DeliveryNumber: 5011513198, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 100.0
+   DeliveryNumber: 5011513199, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 5000.0
+   DeliveryNumber: 5011515129, LocationName: DI CROCE Y LOZANO S.R.L., MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 165.0
+
+----------------------------------------------------------------
+Embarque: '834328898Archivo:  2024-06-10 17:13:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536400160513765-834328898.log
+Origen: SAPP08,  Embarque: 834328898, Date: 2024-06-12T07:51:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011511290, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 150.0
+   DeliveryNumber: 5011511342, LocationName: CEREALES QUEMU SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 260.0
+   DeliveryNumber: 5011513143, LocationName: CEREALES QUEMU SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 1000.0
+   DeliveryNumber: 5011515063, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011515064, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 105.0
+   DeliveryNumber: 5011515066, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011515067, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1920.0
+   DeliveryNumber: 5011515068, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 105.0
+   DeliveryNumber: 5011515070, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011515071, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515073, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 450.0
+   DeliveryNumber: 5011515074, LocationName: CEREALES QUEMU SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 6000.0
+
+----------------------------------------------------------------
+Embarque: '834328899Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401578784562-834328899.log
+Origen: SAPP08,  Embarque: 834328899, Date: 2024-06-12T14:19:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011513165, LocationName: FULLAGRO SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 4000.0
+   DeliveryNumber: 5011513167, LocationName: DEKALDEN SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 500.0
+   DeliveryNumber: 5011515133, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515134, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 180.0
+   DeliveryNumber: 5011515135, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515136, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515137, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515138, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515139, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011515140, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 450.0
+   DeliveryNumber: 5011515141, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515142, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515143, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011515144, LocationName: DEKALDEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+
+----------------------------------------------------------------
+Embarque: '834328912Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401538365200-834328912.log
+Origen: SAPP08,  Embarque: 834328912, Date: 2024-06-13T15:47:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011514969, LocationName: AGRO GERMANIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011511295, LocationName: TODO CAMPO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011512911, LocationName: TODO CAMPO SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 4500.0
+   DeliveryNumber: 5011515147, LocationName: TODO CAMPO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515148, LocationName: TODO CAMPO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1290.0
+   DeliveryNumber: 5011515149, LocationName: TODO CAMPO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 405.0
+   DeliveryNumber: 5011515150, LocationName: TODO CAMPO SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2010.0
+   DeliveryNumber: 5011514975, LocationName: INTEGRAL AGROPECUARIA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 2250.0
+
+----------------------------------------------------------------
+Embarque: '834328916Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401537864705-834328916.log
+Origen: SAPP08,  Embarque: 834328916, Date: 2024-06-12T15:15:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011512848, LocationName: LOMAS PAMPEANAS S.A.S., MaterialName: LA TIJERETA PLATINUM II,MON301512,48X20L, Batch: None, Qty: 2480.0
+   DeliveryNumber: 5011512853, LocationName: LOMAS PAMPEANAS S.A.S., MaterialName: LA TIJERETABOX W,AR,64X15KG,BOX MON76818, Batch: None, Qty: 10380.0
+   DeliveryNumber: 5011514668, LocationName: LOMAS PAMPEANAS S.A.S., MaterialName: LA TIJERETABOX W,AR,64X15KG,BOX MON76818, Batch: None, Qty: 10005.0
+
+----------------------------------------------------------------
+Embarque: '834328919Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401541237980-834328919.log
+Origen: SAPP08,  Embarque: 834328919, Date: 2024-06-12T16:36:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011512903, LocationName: AGRO LEBEN SRL, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 4000.0
+   DeliveryNumber: 5011515017, LocationName: AGRO LEBEN SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011511288, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 105.0
+   DeliveryNumber: 5011511338, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 3400.0
+   DeliveryNumber: 5011513128, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 140.0
+   DeliveryNumber: 5011513129, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 560.0
+   DeliveryNumber: 5011513130, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 540.0
+   DeliveryNumber: 5011513131, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 40.0
+   DeliveryNumber: 5011514964, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 315.0
+   DeliveryNumber: 5011514965, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 5010.0
+   DeliveryNumber: 5011514966, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 885.0
+   DeliveryNumber: 5011514967, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 510.0
+   DeliveryNumber: 5011514968, LocationName: EL MALAMBO AGROPECUARIA SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1500.0
+
+----------------------------------------------------------------
+Embarque: '834329012Archivo:  2024-06-10 17:15:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638536401545782425-834329012.log
+Origen: SAPP08,  Embarque: 834329012, Date: 2024-06-12T12:09:00Z, Carrier: ZARCAM S A
+
+   DeliveryNumber: 5011515044, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 810.0
+   DeliveryNumber: 5011515078, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 810.0
+   DeliveryNumber: 5011515079, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 330.0
+   DeliveryNumber: 5011515080, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 480.0
+   DeliveryNumber: 5011515092, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3600.0
+   DeliveryNumber: 5011515094, LocationName: FOCSEED SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 660.0
+   DeliveryNumber: 5011515084, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 960.0
+   DeliveryNumber: 5011515087, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 4005.0
+   DeliveryNumber: 5011515088, LocationName: AGRO UCACHA SRL, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 330.0
+   DeliveryNumber: 5011514693, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP TOP,AR,48x20L BT MON301515, Batch: None, Qty: 2000.0
+   DeliveryNumber: 5011515097, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515098, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 315.0
+   DeliveryNumber: 5011515099, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515100, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515101, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 3000.0
+   DeliveryNumber: 5011515102, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 1005.0
+   DeliveryNumber: 5011515103, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 495.0
+   DeliveryNumber: 5011515104, LocationName: SANCHEZ AGRONEGOCIOS SA, MaterialName: RUP CONTROLMAX,AR,64x15KG BOX, Batch: None, Qty: 165.0
+
+----------------------------------------------------------------
+Embarque: '834329341Archivo:  2024-06-11 12:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537097495124333-834329341.log
+Origen: SAPP08,  Embarque: 834329341, Date: 2024-06-12T07:00:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011511911, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-70TRE C5 80M TB AR, Batch: YE1090595, Qty: 20.0
+   DeliveryNumber: 5011511912, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-72TRE C5 80M TB AR, Batch: XE1080828, Qty: 18.0
+   DeliveryNumber: 5011511912, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-70TRE C5 80M TB AR, Batch: YE1090595, Qty: 18.0
+   DeliveryNumber: 5011511912, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-70TRE C5 80M TB AR, Batch: YE1090595, Qty: 1.0
+   DeliveryNumber: 5011511952, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-72TRE R2 80M TB AR, Batch: YE1090358C, Qty: 9.0
+   DeliveryNumber: 5011511952, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-72TRE R2 80M TB AR, Batch: YE1090358C, Qty: 5.0
+   DeliveryNumber: 5011512015, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-72TRE SPC 80M TB AR, Batch: XY1080861, Qty: 54.0
+   DeliveryNumber: 5011512015, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-72TRE SPC 80M TB AR, Batch: XY1080861, Qty: 1.0
+   DeliveryNumber: 5011512081, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK73-03TRE SPR 80M TB AR, Batch: YE1091215, Qty: 90.0
+   DeliveryNumber: 5011512081, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK73-03TRE SPR 80M TB AR, Batch: YE1091215, Qty: 7.0
+   DeliveryNumber: 5011512098, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK73-03RR2 SPR 80M TB AR, Batch: YE1090961, Qty: 25.0
+   DeliveryNumber: 5011515536, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4 C4 80M TB AR, Batch: YE1091505, Qty: 135.0
+   DeliveryNumber: 5011515830, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4_RIB R2 80M TB AR, Batch: YE1091451C, Qty: 640.0
+   DeliveryNumber: 5011515832, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4_RIB C4 80M TB AR, Batch: YE1091398, Qty: 30.0
+   DeliveryNumber: 5011515854, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4_RIB R4C 80M TB AR, Batch: YE1091446, Qty: 200.0
+   DeliveryNumber: 5011515854, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4_RIB R4C 80M TB AR, Batch: YE1091446, Qty: 50.0
+   DeliveryNumber: 5011515857, LocationName: AIBAL SERVICIOS AGROPECUARIOS SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091381, Qty: 60.0
+
+----------------------------------------------------------------
+Embarque: '834329343Archivo:  2024-06-11 11:48:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537068844561722-834329343.log
+Origen: SAPP08,  Embarque: 834329343, Date: 2024-06-12T07:00:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011515688, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 396.0
+   DeliveryNumber: 5011515688, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090398, Qty: 180.0
+   DeliveryNumber: 5011515689, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 50.0
+   DeliveryNumber: 5011515690, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 130.0
+   DeliveryNumber: 5011515691, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 45.0
+   DeliveryNumber: 5011515691, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 5.0
+   DeliveryNumber: 5011515692, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 54.0
+   DeliveryNumber: 5011515692, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 8.0
+   DeliveryNumber: 5011515693, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 54.0
+   DeliveryNumber: 5011515693, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4C 80M TB AR, Batch: YE1090361, Qty: 8.0
+   DeliveryNumber: 5011515707, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: YE1090354, Qty: 135.0
+   DeliveryNumber: 5011515708, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: YE1090354, Qty: 9.0
+   DeliveryNumber: 5011515709, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: YE1090354, Qty: 36.0
+   DeliveryNumber: 5011515720, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03TRE C4 80M TB AR, Batch: YE1090515, Qty: 80.0
+   DeliveryNumber: 5011515727, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03TRE SPR 80M TB AR, Batch: YE1091225, Qty: 18.0
+   DeliveryNumber: 5011515727, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03TRE SPR 80M TB AR, Batch: YE1091225, Qty: 1.0
+   DeliveryNumber: 5011515729, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK74-47VT3P R4 80M TB AR, Batch: XE1080116, Qty: 135.0
+   DeliveryNumber: 5011515732, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03RR2 R2 80M TB AR, Batch: YE1090958, Qty: 10.0
+   DeliveryNumber: 5011515733, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03RR2 R2 80M TB AR, Batch: YE1090958, Qty: 4.0
+   DeliveryNumber: 5011515737, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK73-03RR2 SPR 80M TB AR, Batch: YE1090945, Qty: 2.0
+   DeliveryNumber: 5011515781, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 C2 80M TB AR, Batch: YE1091078, Qty: 6.0
+   DeliveryNumber: 5011515787, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 C4 80M TB AR, Batch: YE1091073, Qty: 40.0
+   DeliveryNumber: 5011515812, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 13.0
+   DeliveryNumber: 5011515812, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 15.0
+   DeliveryNumber: 5011515812, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 15.0
+   DeliveryNumber: 5011515812, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 10.0
+   DeliveryNumber: 5011515813, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 4.0
+   DeliveryNumber: 5011515814, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 SPR 80M TB AR, Batch: YE1091046, Qty: 1.0
+
+----------------------------------------------------------------
+Embarque: '834329345Archivo:  2024-06-11 13:23:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537126362147465-834329345.log
+Origen: SAPP08,  Embarque: 834329345, Date: 2024-06-11T16:31:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011515523, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72VT3P R4 80M TB AR, Batch: XE1081162, Qty: 135.0
+   DeliveryNumber: 5011515524, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-10PRO4 C2 80M TB AR, Batch: YE1091463C, Qty: 30.0
+   DeliveryNumber: 5011515524, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-10PRO4 C2 80M TB AR, Batch: YE1091463C, Qty: 1.0
+   DeliveryNumber: 5011515571, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-10PRO4 R4 80M TB AR, Batch: YE1091489, Qty: 12.0
+   DeliveryNumber: 5011515578, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-10PRO4 R4C 80M TB AR, Batch: YE1091518, Qty: 100.0
+   DeliveryNumber: 5011515599, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-20RR2 C2 80M TB AR, Batch: YE1091141, Qty: 15.0
+   DeliveryNumber: 5011515600, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-20RR2 C2 80M TB AR, Batch: YE1091141, Qty: 10.0
+   DeliveryNumber: 5011515627, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 4.0
+   DeliveryNumber: 5011515628, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 3.0
+   DeliveryNumber: 5011515644, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE C2 80M TB AR, Batch: YE1090399, Qty: 54.0
+   DeliveryNumber: 5011515644, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE C2 80M TB AR, Batch: YE1090399, Qty: 3.0
+   DeliveryNumber: 5011515651, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090352, Qty: 120.0
+   DeliveryNumber: 5011515658, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R2 80M TB AR, Batch: YE1090378, Qty: 100.0
+   DeliveryNumber: 5011515671, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090319, Qty: 72.0
+   DeliveryNumber: 5011515673, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090319, Qty: 315.0
+   DeliveryNumber: 5011515676, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090319, Qty: 2.0
+   DeliveryNumber: 5011515790, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 R4 80M TB AR, Batch: YE1091077, Qty: 180.0
+   DeliveryNumber: 5011515798, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 R4C 80M TB AR, Batch: YE1091063, Qty: 64.0
+   DeliveryNumber: 5011515799, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 R4C 80M TB AR, Batch: YE1091063, Qty: 5.0
+   DeliveryNumber: 5011515800, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 R4C 80M TB AR, Batch: YE1091063, Qty: 6.0
+   DeliveryNumber: 5011515801, LocationName: AGROQUIMICOS DEL SUR SRL, MaterialName: C DK DK72-72RR2 R4C 80M TB AR, Batch: YE1091063, Qty: 6.0
+
+----------------------------------------------------------------
+Embarque: '834329356Archivo:  2024-06-11 11:48:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537068842899800-834329356.log
+Origen: SAPP08,  Embarque: 834329356, Date: 2024-06-11T16:37:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011515635, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 27.0
+   DeliveryNumber: 5011515635, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 11.0
+   DeliveryNumber: 5011515635, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 5.0
+   DeliveryNumber: 5011515636, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 11.0
+   DeliveryNumber: 5011515637, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 10.0
+   DeliveryNumber: 5011515638, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 756.0
+   DeliveryNumber: 5011515638, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 34.0
+   DeliveryNumber: 5011515641, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: YE1091093, Qty: 7.0
+   DeliveryNumber: 5011515666, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-72TRE R2 80M TB AR, Batch: YE1090378, Qty: 189.0
+   DeliveryNumber: 5011515666, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-72TRE R2 80M TB AR, Batch: YE1090378, Qty: 4.0
+   DeliveryNumber: 5011515724, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK73-03TRE R4 80M TB AR, Batch: YE1091238, Qty: 18.0
+   DeliveryNumber: 5011515724, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK73-03TRE R4 80M TB AR, Batch: YE1091238, Qty: 1.0
+   DeliveryNumber: 5011515724, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK73-03TRE R4 80M TB AR, Batch: YE1091238, Qty: 12.0
+   DeliveryNumber: 5011515786, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-72RR2 R2 80M TB AR, Batch: YE1091079C, Qty: 5.0
+   DeliveryNumber: 5011515835, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB C4 80M TB AR, Batch: YE1091398, Qty: 60.0
+   DeliveryNumber: 5011515835, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB C4C 80M TB AR, Batch: YE1091475, Qty: 18.0
+   DeliveryNumber: 5011515837, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB C4C 80M TB AR, Batch: YE1091475, Qty: 40.0
+   DeliveryNumber: 5011515838, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB C4C 80M TB AR, Batch: YE1091475, Qty: 20.0
+   DeliveryNumber: 5011515838, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB C4C 80M TB AR, Batch: YE1091475, Qty: 4.0
+   DeliveryNumber: 5011515841, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4 80M TB AR, Batch: YE1091467, Qty: 40.0
+   DeliveryNumber: 5011515841, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4 80M TB AR, Batch: YE1091467, Qty: 41.0
+   DeliveryNumber: 5011515842, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4 80M TB AR, Batch: YE1091467, Qty: 30.0
+   DeliveryNumber: 5011515842, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4 80M TB AR, Batch: YE1091467, Qty: 20.0
+
+----------------------------------------------------------------
+Embarque: '834329390Archivo:  2024-06-11 14:09:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537153832659338-834329390.log
+Origen: SAPP08,  Embarque: 834329390, Date: 2024-06-12T07:55:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011515859, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 100.0
+   DeliveryNumber: 5011515859, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 1.0
+   DeliveryNumber: 5011515860, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 70.0
+   DeliveryNumber: 5011515861, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 20.0
+   DeliveryNumber: 5011515861, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 8.0
+   DeliveryNumber: 5011515862, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 8.0
+   DeliveryNumber: 5011515863, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPC 80M TB AR, Batch: YE1091469, Qty: 5.0
+   DeliveryNumber: 5011515866, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 100.0
+   DeliveryNumber: 5011515869, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 100.0
+   DeliveryNumber: 5011515871, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 40.0
+   DeliveryNumber: 5011515872, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 50.0
+   DeliveryNumber: 5011515872, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 1.0
+   DeliveryNumber: 5011515873, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 75.0
+   DeliveryNumber: 5011515874, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 30.0
+   DeliveryNumber: 5011515878, LocationName: VERDE SIEMBRA SA, MaterialName: C DK DK72-72VT3P R4C 80M TB AR, Batch: XE1081150, Qty: 1.0
+   DeliveryNumber: 5011515833, LocationName: AGRONOMIA DOM SA, MaterialName: C DK DK72-10PRO4_RIB C4 80M TB AR, Batch: YE1091390, Qty: 322.0
+   DeliveryNumber: 5011515833, LocationName: AGRONOMIA DOM SA, MaterialName: C DK DK72-10PRO4_RIB C4 80M TB AR, Batch: YE1091398, Qty: 188.0
+
+----------------------------------------------------------------
+Embarque: '834329396Archivo:  2024-06-11 11:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537061460102599-834329396.log
+Origen: SAPP08,  Embarque: 834329396, Date: 2024-06-12T07:00:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011515738, LocationName: NICOLA AGRO S.A., MaterialName: C LT LT721TRE C9 80M T AR, Batch: YE1090146C, Qty: 500.0
+   DeliveryNumber: 5011515738, LocationName: NICOLA AGRO S.A., MaterialName: C LT LT721TRE C9 80M T AR, Batch: YE1090146C, Qty: 512.0
+   DeliveryNumber: 5011515738, LocationName: NICOLA AGRO S.A., MaterialName: C LT LT721TRE C9 80M T AR, Batch: YE1090174C, Qty: 164.0
+
+----------------------------------------------------------------
+Embarque: '834329412Archivo:  2024-06-11 12:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537097319083045-834329412.log
+Origen: SAPP08,  Embarque: 834329412, Date: 2024-06-12T07:00:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011515498, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-10RR2 R4 80M TB AR, Batch: YE1090851C, Qty: 8.0
+   DeliveryNumber: 5011515587, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 112.0
+   DeliveryNumber: 5011515587, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-10PRO4 SPC 80M TB AR, Batch: YE1091415, Qty: 405.0
+   DeliveryNumber: 5011515587, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 45.0
+   DeliveryNumber: 5011515587, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 9.0
+   DeliveryNumber: 5011515587, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 6.0
+   DeliveryNumber: 5011515606, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 3.0
+   DeliveryNumber: 5011515606, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 11.0
+   DeliveryNumber: 5011515606, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 23.0
+   DeliveryNumber: 5011515606, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 1.0
+   DeliveryNumber: 5011515607, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 25.0
+   DeliveryNumber: 5011515607, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: YE1091111C, Qty: 10.0
+   DeliveryNumber: 5011515615, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 24.0
+   DeliveryNumber: 5011515617, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 4.0
+   DeliveryNumber: 5011515619, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 11.0
+   DeliveryNumber: 5011515624, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 4.0
+   DeliveryNumber: 5011515624, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091123C, Qty: 4.0
+   DeliveryNumber: 5011515650, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE C2 80M TB AR, Batch: YE1090332C, Qty: 210.0
+   DeliveryNumber: 5011515655, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090320, Qty: 207.0
+   DeliveryNumber: 5011515655, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090317, Qty: 2.0
+   DeliveryNumber: 5011515655, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090320, Qty: 4.0
+   DeliveryNumber: 5011515656, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE C4 80M TB AR, Batch: YE1090317, Qty: 225.0
+   DeliveryNumber: 5011515687, LocationName: AGRO BUEY INSUMOS SRL, MaterialName: C DK DK72-72TRE R4 80M TB AR, Batch: YE1090376, Qty: 72.0
+
+----------------------------------------------------------------
+Embarque: '834330586Archivo:  2024-06-11 11:47:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537068754023326-834330586.log
+Origen: SAPP08,  Embarque: 834330586, Date: 2024-06-12T07:00:00Z, Carrier: ID SUPPLY CHAIN S A
+
+   DeliveryNumber: 5011515447, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-70TRE C4C 80M TB AR, Batch: YE1090614, Qty: 15.0
+   DeliveryNumber: 5011515447, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 C4 80M TB AR, Batch: WE1072813, Qty: 9.0
+   DeliveryNumber: 5011515448, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-70TRE R2 80M TB AR, Batch: XE1082777D, Qty: 95.0
+   DeliveryNumber: 5011515449, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20PRO4 R2 80M TB AR, Batch: YE1090558C, Qty: 3.0
+   DeliveryNumber: 5011515449, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-72TRE SPR 80M TB AR, Batch: XE1080824, Qty: 10.0
+   DeliveryNumber: 5011515450, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4 R2 80M TB AR, Batch: XE1081328D, Qty: 26.0
+   DeliveryNumber: 5011515450, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4 R2 80M TB AR, Batch: YE1091465C, Qty: 1.0
+   DeliveryNumber: 5011515451, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20PRO4 R2 80M TB AR, Batch: YE1090558C, Qty: 50.0
+   DeliveryNumber: 5011515452, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20PRO4 C4C 80M TB AR, Batch: XE1081501, Qty: 19.0
+   DeliveryNumber: 5011515453, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-08TRE R2 80M TB AR, Batch: XE1081694D, Qty: 5.0
+   DeliveryNumber: 5011515453, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 SPR 80M TB AR, Batch: XE1180370, Qty: 17.0
+   DeliveryNumber: 5011515461, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 R4 80M TB AR, Batch: YE1090873, Qty: 5.0
+   DeliveryNumber: 5011515461, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 SPR 80M T AR, Batch: XE1080462, Qty: 3.0
+   DeliveryNumber: 5011515464, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 C2 80M TB AR, Batch: YE1090881, Qty: 50.0
+   DeliveryNumber: 5011515477, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 C4 80M TB AR, Batch: YE1090922, Qty: 100.0
+   DeliveryNumber: 5011515478, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 C4 80M TB AR, Batch: YE1090922, Qty: 13.0
+   DeliveryNumber: 5011515479, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 C4 80M TB AR, Batch: YE1090922, Qty: 5.0
+   DeliveryNumber: 5011515502, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 SPC 80M TB AR, Batch: YE1090882, Qty: 25.0
+   DeliveryNumber: 5011515503, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10RR2 SPC 80M TB AR, Batch: YE1090882, Qty: 8.0
+   DeliveryNumber: 5011515595, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4 SPR 80M TB AR, Batch: YE1091419, Qty: 500.0
+   DeliveryNumber: 5011515621, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091095, Qty: 5.0
+   DeliveryNumber: 5011515622, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-20RR2 R4 80M TB AR, Batch: YE1091095, Qty: 40.0
+   DeliveryNumber: 5011515845, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4C 80M TB AR, Batch: YE1091411, Qty: 30.0
+   DeliveryNumber: 5011515849, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB R4C 80M TB AR, Batch: YE1091411, Qty: 50.0
+   DeliveryNumber: 5011515867, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 116.0
+   DeliveryNumber: 5011515870, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 80.0
+   DeliveryNumber: 5011515870, LocationName: ALBERTO MONCHO E HIJOS SA, MaterialName: C DK DK72-10PRO4_RIB SPR 80M TB AR, Batch: YE1091460, Qty: 1.0
+
+----------------------------------------------------------------
+Embarque: '834330623Archivo:  2024-06-11 12:35:00 - http://rtv-b2b-api-logs.vigiloo.net/LoadUpload/638537097371083605-834330623.log
+Origen: SAPP08,  Embarque: 834330623, Date: 2024-06-12T10:18:00Z, Carrier: CH ROBINSON WORLDWIDE ARGENTINA SA
+
+   DeliveryNumber: 5011515762, LocationName: ESTABLECIMIENTO AGROPECUARIO LOS RE, MaterialName: C LT LT723RR2 C9 80M T AR, Batch: XE1082896, Qty: 11.0
+   DeliveryNumber: 5011515768, LocationName: ESTABLECIMIENTO AGROPECUARIO LOS RE, MaterialName: C LT LT723RR2 SPR 80M T AR, Batch: XE1082900, Qty: 50.0
+   DeliveryNumber: 5011515756, LocationName: ZAHND CECILIA MARIA, MaterialName: C LT LT723RR2 C9 80M T AR, Batch: XE1082895N, Qty: 50.0
+   DeliveryNumber: 5011515744, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT721TRE R9 80M T AR, Batch: YE1090177C, Qty: 500.0
+   DeliveryNumber: 5011515757, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT723RR2 C9 80M T AR, Batch: XE1082896, Qty: 50.0
+   DeliveryNumber: 5011515757, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT785PRO4 R9 60M T AR, Batch: YE1090118, Qty: 200.0
+   DeliveryNumber: 5011515758, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT723RR2 C9 80M T AR, Batch: XE1082896, Qty: 100.0
+   DeliveryNumber: 5011515765, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT723RR2 C8 80M T AR, Batch: XE8880316M, Qty: 50.0
+   DeliveryNumber: 5011515765, LocationName: COMPAÃIA DE INSUMOS Y GRANOS S A, MaterialName: C LT LT785PRO4 R9 60M T AR, Batch: YE1090118, Qty: 200.0

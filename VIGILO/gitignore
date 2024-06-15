@@ -9,21 +9,18 @@ env.bak/
 venv.bak/
 .venv
 
-
 # DATOS de Ejemplo
 data/
 DATA/
 
-
-
 # SECRETOS
 .env
+.env.dev
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
 
 # Distribution / packaging
 .Python
@@ -132,8 +129,6 @@ ipython_config.py
 
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow and github.com/pdm-project/pdm
 __pypackages__/
-
-
 
 # Rope project settings
 .ropeproject

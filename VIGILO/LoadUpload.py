@@ -149,12 +149,16 @@ for i in range(len(salida)):
         
 # Controla los Registros efectivamente ingresados en la BASE de DATOS
 import pyodbc
+from dotenv import dotenv_values
 
-SERVER = '213.134.40.73,9595'
-DATABASE = 'seamtrack'
-USERNAME = 'eduardo.ettlin@vigiloo.com.ar'
-PASSWORD = 'Aladelta10$'
-OPTIONS= 'encrypt=no'
+secrets = dotenv_values(".env")
+local_secrets = dotenv_values(".env.dev")
+
+SERVER = secrets["SERVER"]
+DATABASE = secrets["DATABASE"]
+USERNAME = secrets["USERNAME"]
+PASSWORD = secrets["PASSWORD"]
+OPTIONS= secrets["OPTIONS"]
 
 connectionString = f'DRIVER={{ODBC Driver 18 for SQL Server}};SERVER={SERVER};DATABASE={DATABASE};UID={USERNAME};PWD={PASSWORD};{OPTIONS}'
 conn = pyodbc.connect(connectionString) 
