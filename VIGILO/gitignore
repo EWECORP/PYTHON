@@ -12,6 +12,7 @@ venv.bak/
 # DATOS de Ejemplo
 data/
 DATA/
+Images/
 
 # SECRETOS
 .env
