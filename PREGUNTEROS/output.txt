@@ -1,0 +1,204 @@
+NUEVO INTENTO - ESPAÑOL
+16| Un especialista en ciberseguridad recomienda a la empresa que u tilice un software de código abierto para... | B-FALSO
+14| La ciberseguridad forma parte de la Industria 4.0| A - Verdadero
+13| Cómo se denomina al texto modificado producido por un criptosistema| A - Criptograma
+6| ¿Cuál es la utilidad de un certificado digital? |C- Demostrar que una clave pública pertenece a un usuario concreto
+5| Una empresa llama a Guillermo porque una computadora de la red no puede navegar por internet. Lo primero que puede hacer... llama software usado en el terminal o shell que usa para comprobar la comujnicación IP entre dispositivos? | C-PING
+3|Tomás se fue a vivir a Europa, pero quiere t�cnicamente simular estar en Argentina para segun pagando geoposiciona en nuestro pa�s (ademas esta tecnolog�a le permite encriptar y Smile ao |C - Red Privada Virtual
+11|Fabián especialista de segurida es contratado para analizar la filtración física de información | B - riesgo de ataque físico
+15| Luego del episodio de Edward Snowden un especialista en ciberseguridad de recomienda  |C - Modelos y Políticas de seguridad
+4|Una empresa contrata un especialista en ciberseguridad para evitar ciberataques a una red interna... | E- Firewall
+18|¿Como se denomina la acción de hacer un hacking ético para encontrar vulnerabilidades en un sistema... | A- Test de Penetración
+1|¿Cómo se denomina al vector de ataque que involucra a un empleado con malas intenciones ... |C- Insiders Maliciosos
+17|Un scripting es una serie de mstrucciones que se invocan en una computadora al hacer un clic | A-Verdadero
+2| El modelo OSI esta formado por capas.... |C- Tiene siete capas
+19|Una empresa de ciberseguridad es contratada para certificar un datacenter y todo lo que esta.... |E- Topología física
+7| Una empresa contrata a un especialista de ciberseguridad para que arme un servidor que.... ataques ¿Cómo se llama este tipo de servidor? | D- Proxi inverso
+8| Seleccione las 4 (cuatro) correctas ¿Cuales son los tipos de virus informáticos? | Bombas de Tiempo o Bombas Logicas + Gusano + Joke(Broma o Juevo) + Troyano
+9| Un especialista en ciberseguridad es contratado para prevenir acciones que contrarresten .... sea exitoso? | D- Dentro de su perímetro o entorno
+
+
+
+do +16
+
+Un especialista en ciberseguridad recomienda a la empresa que |
+
+Tu respuesta
+
+
+
+Enunciado 114
+
+La ciberseguridad forma parte de la Industria 4.0
+
+Tu respuesta
+
+A —- Verdadero
+
+
+¿Cómo se denomina al texto modificado producido por UN
+
+Tu respuesta
+
+c ;
+| A - Criptograma
+
+
+
+e Enunciado 46
+———
+
+¿Cuál es la utilidad de un certificado digital? L
+
+Tu respuesta
+
+usuario concreto:
+
+clave pública pertenece aun
+
+|
+C- Demostrar que una
+
+
+
+0
+
+1
+N O LAN
+
+a llama a Guillermo porque una computadora de la red no
+oftware usado en el terminal o shell que usa para comprobar la
+
+puesta
+
+Telnet
+
+Respuesta Comer ta
+
+
+N
+
+
+
+MU 1
+MN 1 Mo ML
+
+Un scripting es uNa SEN
+un clic
+
+Tu respuesta
+
+e de mstrucciones que se invocar
+
+
+O Enunciado 143
+
+Tomás se fue a vivir a Europa, pero quiere técnicamente simular estar en Argentina para segun pagando
+geoposiciona en nuestro país (ademas esta tecnología le permite encriptar y Smile ao
+
+Tu respuesta Le
+
+E - Red de ocultamiento de IP.
+
+puesta correcta
+
+C - Red Privada Virtual
+
+
+
+ol O MITA
+LAA " j | " MU
+
+MI
+1 1” Men 1 "0
+
+W
+NU l e MA "
+
+1
+11
+
+. lu
+
+modelo SI esta tormedo por capas,
+e
+
+
+
+MN 1/7,
+1
+Um " 1 Mo ",
+
+" NN N N N
+
+1
+Ue 1
+
+Me
+"E
+"", y
+" Mi MT A y
+1 o Ne N 1
+19/9/17
+
+e hardware
+
+D- Riesgo de robo dl
+
+Respuesta correcta
+
+
+
+"” _
+. Mm
+1 A
+
+
+
+
+
+O Enunciado 419
+- E
+que
+
+Una empresa dec ibersegunidad es € ontratada para € ertificar por niveles UN data center y todoo
+
+Tu respuesta
+
+C- Topología lógica 11
+
+ta conecta
+
+
+
+Un especialista en ciberseguridad es contratado por una em
+
+ataques. ¿Cómo se llama este tipo de servidor?
+
+Tu respuesta
+
+f
+D - Proxy inverso.
+
+|
+
+
+Enunciado 48
+
+Selecciona las 4 (cuatro) opciones correctas. ¿Cuáles son los tipos de vinis:
+
+Tus respuestas
+
+f - = = ==
+E —Foyano —=——
+
+
+Un especialista en ciberseguridad es contratado para
+sea exitoso?
+
+Tu respuesta
+
+lo — pentrodesu perímetro o entorno
+
+
+
