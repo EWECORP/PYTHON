@@ -74,6 +74,13 @@ cover/
 *.mo
 *.pot
 
+# EJEMPLOS LOCALES y VARIOS
+CS50/
+.venv/
+QR_Afip/
+Practicas_Python_DataScience-main/
+
+
 # Django stuff:
 *.log
 local_settings.py
